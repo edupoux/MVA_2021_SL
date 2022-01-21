@@ -1,8 +1,8 @@
 # UPDATE REGARDING PROJECT DEFENSES
 
-[//]: #  Please ignore the Google Meet link in the calendar invite you received for your project defence. Use the following zoom link instead: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
+[//]: #  (Please ignore the Google Meet link in the calendar invite you received for your project defence. Use the following zoom link instead: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09)
 
-[//]: #  # NEW!
+[//]: #  (# NEW!)
 
 [//]: #  - The Holger Schwenk course will not be prerecorded but be delivered live on Mar 8, 2021 from 9 to 11am. 
 [//]: #  https://us02web.zoom.us/j/81410190794
