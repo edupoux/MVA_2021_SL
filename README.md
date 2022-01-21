@@ -18,7 +18,7 @@ https://docs.google.com/spreadsheets/d/115ZIe9V0Y-bbaf40KHEjRobgTuqPk1-VNEPC88fl
 [//]: # (with CC to all members of the group.)
 # Algorithms for speech and natural language processing (MVA 2021)
 
-* this is the course for the academic year 2020-2021. For this year (2021-2022), please follow this link:  https://github.com/edupoux/MVA_2022_SL/ *
+** this is the course for the academic year 2020-2021 (last year). For the current year (2021-2022), please follow this link:  https://github.com/edupoux/MVA_2022_SL/**
 
 ## Contact information
 For any question/request related to this course, please send an email to this address: mva.speech.language@gmail.com
